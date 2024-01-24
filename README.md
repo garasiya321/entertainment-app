@@ -37,6 +37,8 @@ To get started with Entertainment Hub on your local machine, follow these simple
    - Tailwind CSS
    - TMDB api (https://developer.themoviedb.org/docs/getting-started)
 
+## Deployment link
+      (https://entertainmenthub-tushar09.onrender.com/)
 ## API DOCUMENTATION
    # User Signup
      - https://entertainment-app-server.onrender.com/api/user/signup
